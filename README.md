@@ -2,7 +2,7 @@
 sudo apt install mysql-server
 sudo apt install mysql-client
 mysql -u username -p
-CREATE USER stream IDENTIFIED BY 'password';
+CREATE USER xxx IDENTIFIED BY 'password';
 CREATE DATABASE xxx1;
 CREATE DATABASE xxx2;
 GRANT ALL ON *.* TO xxx3;
